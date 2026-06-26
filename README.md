@@ -1,5 +1,11 @@
-# 💫 About Me:
-# Hi there, I'm Teddy 👋<br><br>I am a  Software Engineering focused on building clean, scalable, and impactful digital solutions. <br><br> 🚀 What I'm Up To<br><br>🍵 **Dev:** Managing the technical architecture and full-stack ecosystem  e-commerce website.<br>   🧠 **Learning:** Constantly expanding my toolkit, digging deeper into advanced system design, and sharpening my full-stack capabilities.
+# 💫 About Me
+## Hi there, I'm Teddy 👋
+
+I am a **Software Engineer** focused on building clean, scalable, and impactful digital solutions. 
+
+### 🚀 What I'm Up To
+*   🍵 **Dev:** Managing the technical architecture and full-stack ecosystem of an e-commerce website.
+*   🧠 **Learning:** Constantly expanding my toolkit, digging deeper into advanced system design, and sharpening my full-stack capabilities.
 
 
 ## 🌐 Socials:
