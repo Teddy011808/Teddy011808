@@ -1,7 +1,7 @@
 # 💫 About Me
 ## Hi there, I'm Teddy 👋
 
-I am a **Software Engineer** focused on building clean, scalable, and impactful digital solutions. 
+I am a **Software Engineer** focused on building clean, scalable, and impactful digital solutions
 
 ### 🚀 What I'm Up To
 *   🍵 **Dev:** Managing the technical architecture and full-stack ecosystem of an e-commerce website.
