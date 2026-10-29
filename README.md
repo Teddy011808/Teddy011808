@@ -5,7 +5,7 @@ I am a **Software Engineer** focused on building clean, scalable, and impactful 
 
 ### 🚀 What I'm Up To
 *   🍵 **Dev:** Managing the technical architecture and full-stack ecosystem of an e-commerce website.
-*   🧠 **Learning:** Constantly expanding my toolkit, digging deeper into advanced system design, and sharpening my full-stack capabilities
+*   🧠 **Learning:** Constantly expanding my toolkit, digging deeper into advanced system design, and sharpening my full-stack capabilities.
 
 
 ## 🌐 Connect with Me:
